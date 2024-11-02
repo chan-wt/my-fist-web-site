@@ -4,10 +4,10 @@ public class Main {
     Scanner sc = new Scanner(System.in);
     int n;
     n=sc.nextInt();
+    System.out.print(n*n);
+    
     if(n<5){
         System.out.print("tiny");
     }
-    else
-    System.out.print(n*n);
-    }
+}
 }
