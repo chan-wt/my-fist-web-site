@@ -5,6 +5,7 @@ public class Main {
     int n;
     n=sc.nextInt();
     System.out.print(n*n);
+    System.out.print("\n");
     
     if(n<5){
         System.out.print("tiny");
