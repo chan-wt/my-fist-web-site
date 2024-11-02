@@ -5,12 +5,11 @@ public class Main {
      int n;
      n=sc.nextInt();
      if(n>=80){
-        System.out,print("pass");
+        System.out.print("pass");
      }
      else{
-        System.out.print{
-            ((80-n) "more score");
+        System.out.print
+            ((80-n)+" "+ "more score");
         }
      }
     }
-}
